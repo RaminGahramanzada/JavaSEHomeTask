@@ -1,0 +1,15 @@
+Person{name='Olivia', surname='Jones', age=21, father=Mia, mother=Joseph}
+Person{name='Michael', surname='Johnson', age=22, father=Olivia, mother=James}
+Person{name='David', surname='Lopez', age=23, father=null, mother=null}
+Person{name='Sophia', surname='Davis', age=24, father=null, mother=null}
+Person{name='John', surname='Doe', age=25, father=Emily, mother=William}
+Person{name='James', surname='Miller', age=27, father=null, mother=null}
+Person{name='Robert', surname='Garcia', age=29, father=null, mother=null}
+Person{name='Ava', surname='Martinez', age=29, father=null, mother=null}
+Person{name='Jane', surname='Smith', age=30, father=Sophia, mother=Robert}
+Person{name='Emma', surname='Rodriguez', age=31, father=null, mother=null}
+Person{name='Daniel', surname='Wilson', age=32, father=null, mother=null}
+Person{name='Mia', surname='Anderson', age=34, father=null, mother=null}
+Person{name='Joseph', surname='Harris', age=35, father=null, mother=null}
+Person{name='William', surname='Brown', age=78, father=Emma, mother=Daniel}
+Person{name='Emily', surname='Williams', age=82, father=Ava, mother=David}
